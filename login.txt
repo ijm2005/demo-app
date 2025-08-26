@@ -1,1 +1,5 @@
 Login Success
+
+
+ git config --global user.email "ishwarimudegaonkar@gmail.com"
+  git config --global user.name "ijm2005"
